@@ -7,6 +7,6 @@ In this repository, the designed solution, developed python code, additional not
 
 # Provided files:
 File named'**Fingerprint to Zone Classification.ipynb'** is complete document including code sections and related plots of the project
-Four available .py files are the implemented code which can be used on dataset
+in folder **'Code_fingerprint_classifier'** four .py files are available which are the implemented code and can be run on the dataset
 
 
