@@ -9,7 +9,7 @@ In this repository, the designed solution, developed python code, analysis and d
 ## Provided files:
 File **'Fingerprint to Zone Classification.ipynb'**: A complete notebook including code sections, explanations of the solution and related plots of the project
 
-File **'sample_input'** provide a sample dataset to determine the input format (note that values of this sample has been genereated randomly). 
+File **'sample_input.csv'** provide a sample dataset to determine the input format (note that values of this sample has been genereated randomly). 
 
 Folder **'Code_fingerprint_classifier'**: four .py files which are the implemented code that can be run  (The codes are not different from 'Fingerprint to Zone Classification.ipynb' notebook file)
 
