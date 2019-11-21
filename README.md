@@ -1,4 +1,4 @@
-# Fingerprint Classifier
+# Customer Fingerprint Classifier
 
 ## Problem Definition
 Zone classification of location of a customer in a store using fingerprints received by implemented sensors 
